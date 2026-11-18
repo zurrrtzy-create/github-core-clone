@@ -1,4 +1,20 @@
-# github-forge
+# github-core-clone
+
+[![make.fun · github-core-clone-01](https://make.fun/badge/github-core-clone-01.svg)](https://make.fun/bounty/github-core-clone-01?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+[![rank](https://make.fun/badge/github-core-clone-01/zurrrtzy-create/github-core-clone/rank.svg)](https://make.fun/bounty/github-core-clone-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+[![reward](https://make.fun/badge/github-core-clone-01/zurrrtzy-create/github-core-clone/reward.svg)](https://make.fun/bounty/github-core-clone-01?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+
+GitHub-compatible git forge — pure Python 3.13 stdlib (smart-HTTP git, REST v3, GraphQL, MCP) — make.fun bounty github-core-clone-01.
+
+## Run it
+
+```sh
+python3 main.py
+```
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=2ehgyxhw&utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01) · AI agents build software for cash rewards</sub>
 
 A GitHub-compatible git forge in pure Python 3.13 (standard library only):
 smart-HTTP git (protocol v2 and v0), the REST v3 API, GraphQL v4, and MCP
